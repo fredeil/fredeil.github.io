@@ -6,7 +6,7 @@
 name: Fredrik Eilertsen
 
 # Short bio or description (displayed in the header)
-description: Landing page
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/17533404?s=460&v=4
@@ -22,7 +22,7 @@ footer-links:
   facebook: fredrik.eilertsen
   flickr:
   github: fredeil
-  instagram: fredeil
+  instagram:
   linkedin: fredeil
   pinterest:
   rss: enable # just type anything here for a working RSS icon
